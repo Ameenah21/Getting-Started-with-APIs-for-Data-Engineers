@@ -1,5 +1,5 @@
 # Getting-Started-with-APIs-for-Data-Engineers
-This repository contains a Notebooks that accompanies a series of articles I writing on APIs for data Engineers. The current notebook accompanies the second article in the series "APIs for Data Engineers (Part 2): Interacting with APIs; The Requests Library and the Structure of an API Request".  The notebook is designed to provide a detailed, hands-on walkthrough of how to interact with APIs using Python’s requests library. You can the series [here](https://medium.com/@ameenahlawal21) on medium.
+This repository contains notebooks that accompanies a series of articles I am writing on APIs for data Engineers. The current notebook accompanies the second article in the series "APIs for Data Engineers (Part 2): Interacting with APIs; The Requests Library and the Structure of an API Request".  The notebook is designed to provide a detailed, hands-on walkthrough of how to interact with APIs using Python’s requests library. You can the series [here](https://medium.com/@ameenahlawal21) on medium.
 # Overview
 The notebook covers the following key topics:
 
